@@ -1,9 +1,5 @@
 # Secure Smart Contract library (SSC)
 
-# Pomelo NFT Harvest
-
-> Collect & Earn NFTs
-
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
