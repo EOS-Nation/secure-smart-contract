@@ -3,7 +3,7 @@
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       Secure Smart Contract
+    title       Secure Smart Contract (SSC)
     excludes    weekends
 
     section Swap Contract Template (BR04,BR05)
@@ -52,4 +52,18 @@ gantt
     Technical documentation             :docs5, after dev5, 11h
     Unit Testing                        :testing5, after docs5, 17h
     User Testing                        :after docs5, 20h
+
+    section Development Kit (BR01,BR02,BR03)
+    Library manager                     :2022-10-24,130h
+    Starter kit                         :50h
+    Log Utility Contract                :70h
+
+    section Price Feed (BR17, BR18)
+    Price Feed Utility Contract         :70h
+    Price Feed Trigger                  :50h
+    Ricardian Contracts                 :15h
+    User documentation                  :40h
+    Technical documentation             :50h
+    Unit Testing                        :65h
+    User Testing                        :65h
 ```
