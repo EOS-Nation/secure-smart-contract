@@ -7,7 +7,7 @@ gantt
     excludes    weekends
 
     section Swap Contract Template (BR04,BR05)
-    Protocol design                     :protocol1, 2022-10-24,30h
+    Protocol design                     :protocol1, 2022-11-22,30h
     Smart contract development          :dev1, after protocol1, 90h
     Javascript SDK                      :sdk1, after dev1, 50h
     User documentation                  :after sdk1, 40h
@@ -60,7 +60,7 @@ gantt
     section Audit phases
 
     section Development Kit (BR01,BR02,BR03)
-    Library manager                     :2022-10-24,130h
+    Library manager                     :2022-11-22,130h
     Starter kit                         :50h
     Log Utility Contract                :70h
 
